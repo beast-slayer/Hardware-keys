@@ -2,7 +2,9 @@
 ## Description
 
 After release of P based ROMs/GSIs for OnePlus 3/T they miss out option to switch between hw buttons & On Screen Navigation bar.
+
 This module is a mod of my original project :
+
 https://github.com/beast-slayer/Navigation_Bar-Android-Pie-OnePlus-3_3T
 
 This module just disables hardware buttons by comenting out key functions in keylayouts.
