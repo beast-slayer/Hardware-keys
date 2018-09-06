@@ -42,13 +42,15 @@ LATESTARTSERVICE=true
 print_modname() {
   ui_print "**************************************************************"
   ui_print "**************************************************************"
-  ui_print "Enable On Screen Nav-bar & disable hw keys"
+  ui_print "Disable Hardware Keys & Backlight"
   ui_print "by Beast_slayer"
   ui_print "**************************************************************"
   ui_print "**************************************************************"
   ui_print "This module disables Hardware keys and backlights."
-  ui_print "Enables On Screen Navigation Bar"
-  ui_print "Tested on OnePlus 3/3T running Pixel Experience 9.0"
+  ui_print "This is mod of my very own project."
+  ui_print "Refer to Readme.md for the original project."
+  ui_print "WARNING : This does not enable Navigatoin bar by default "
+  ui_print "Tested and working on OnePlus 3/3T (Android 9.0)"
   ui_print "My TG ID: @Beast_slayer"
 }
 
